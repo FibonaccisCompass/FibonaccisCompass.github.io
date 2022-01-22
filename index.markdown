@@ -8,7 +8,7 @@ layout: default
 </div>
 
 * * *
-![Tom]({{ "/images/cropped-tom-bodett.jpg" | absolute_url }})  
+![Tom]({{ "/images/making_things_matters.jpeg" | absolute_url }})  
 Tom Bodett made his national broadcasting debut in 1984 on NPR’s evening news program *All Things Considered*. He has been the brand spokesman for the *Motel 6* lodging chain for 35 years. The author of 7 books and numerous audio publications, his work has appeared in a wide variety of national newspapers and periodicals. He also lends his talents to Steven Spielberg’s animated cartoon series *Animaniacs*, the feature length *Animaniacs* video *Wakko’s Wish*, and the *Pinky and the Brain* series for Warner Brothers Animation. Bodett has been heard on *Saturday Night Live*, *National Geographic Explorer* and several of the Ken Burns documentaries. He is a regular panelist on NPR’s satirical weekend news quiz *Wait, Wait…Don’t Tell Me*, and a regular performer for *The Moth* storytelling series.  
   
 Tom grew up in Sturgis, Michigan then went to Alaska in 1976 where he lived for 23 years. He now lives in the middle of a hay field in Dummerston, VT where he has served on the local Selectboard, raises kids, makes things out of wood, and explores the tipping point of his tractor.  
