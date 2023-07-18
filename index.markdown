@@ -21,7 +21,7 @@ In October of 2018 Tom Bodett co-founded the HatchSpace woodworking school and c
 **Tom Bodett**  
 PO Box 268  
 Putney, VT 05346  
-[tbodett@gmail.com](mailto:tbodett@gmail.com)
+[founder@hatchspace.org](mailto:founder@hatchspace.org)
 
 **Steven Arcieri**  
 Arcieri & Assoc.  
